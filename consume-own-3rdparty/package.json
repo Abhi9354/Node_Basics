@@ -1,0 +1,16 @@
+{
+  "name": "consume-own-3rdparty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "brainmentors-calc": "^1.0.1"
+  }
+}

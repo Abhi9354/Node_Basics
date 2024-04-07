@@ -1,0 +1,16 @@
+{
+  "name": "moduledemo",
+  "version": "1.0.0",
+  "description": "this is a module demo",
+  "main": "fourth.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "module",
+    "demo"
+  ],
+  "author": "amit srivastava",
+  "license": "ISC"
+}

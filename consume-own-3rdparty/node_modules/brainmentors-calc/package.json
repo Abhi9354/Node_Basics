@@ -1,0 +1,14 @@
+{
+  "name": "brainmentors-calc",
+  "version": "1.0.1",
+  "description": "",
+  "main": "calc.js",
+  "scripts": {
+    "prod": "node caller.js 4000 mongodb://127.0.0.1",
+    "start": "node caller.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
